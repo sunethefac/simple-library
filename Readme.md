@@ -1,5 +1,5 @@
-# Restaurant Selection Application
-This project was developed as a solution to **GovTech Technical Challenge**
+# Simple Library System
+This project was developed as a solution to **Collabera Digital** take home Assignment
 
 ## Requirements
 
